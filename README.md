@@ -1,2 +1,5 @@
 # hello-world
-Richa Srivastava 991486046 srivasri16 Davis Campus
+Name: Richa Srivastava
+Student ID: 991486046 
+username: srivasri16 
+Campus: Davis Campus
